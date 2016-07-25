@@ -1,0 +1,4 @@
+#controle sobre qual informação do site deve ou não deve ser indexada pelos sites de busca.
+
+User-agent: *
+Disallow: 
